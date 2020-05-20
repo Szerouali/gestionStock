@@ -1,0 +1,35 @@
+C:\Users\sara\source\repos\Nike\bin\Debug\Nike.exe.config
+C:\Users\sara\source\repos\Nike\bin\Debug\Nike.exe
+C:\Users\sara\source\repos\Nike\bin\Debug\Nike.pdb
+C:\Users\sara\source\repos\Nike\obj\Debug\Nike.csprojAssemblyReference.cache
+C:\Users\sara\source\repos\Nike\obj\Debug\Nike.View.resources
+C:\Users\sara\source\repos\Nike\obj\Debug\Nike.View2.resources
+C:\Users\sara\source\repos\Nike\obj\Debug\Nike.View3.resources
+C:\Users\sara\source\repos\Nike\obj\Debug\Nike.Properties.Resources.resources
+C:\Users\sara\source\repos\Nike\obj\Debug\Nike.csproj.GenerateResource.cache
+C:\Users\sara\source\repos\Nike\obj\Debug\Nike.exe
+C:\Users\sara\source\repos\Nike\obj\Debug\Nike.pdb
+C:\Users\sara\source\repos\Nike\bin\Debug\MySql.Data.dll
+C:\Users\sara\source\repos\Nike\obj\Debug\Nike.csproj.CopyComplete
+C:\Users\mfazer\Downloads\Nike (final)\Nike\bin\Debug\Nike.exe.config
+C:\Users\mfazer\Downloads\Nike (final)\Nike\bin\Debug\Nike.exe
+C:\Users\mfazer\Downloads\Nike (final)\Nike\bin\Debug\Nike.pdb
+C:\Users\mfazer\Downloads\Nike (final)\Nike\obj\Debug\Nike.csprojAssemblyReference.cache
+C:\Users\mfazer\Downloads\Nike (final)\Nike\obj\Debug\Nike.View.resources
+C:\Users\mfazer\Downloads\Nike (final)\Nike\obj\Debug\Nike.View2.resources
+C:\Users\mfazer\Downloads\Nike (final)\Nike\obj\Debug\Nike.View3.resources
+C:\Users\mfazer\Downloads\Nike (final)\Nike\obj\Debug\Nike.Properties.Resources.resources
+C:\Users\mfazer\Downloads\Nike (final)\Nike\obj\Debug\Nike.csproj.GenerateResource.cache
+C:\Users\mfazer\Downloads\Nike (final)\Nike\obj\Debug\Nike.csproj.CopyComplete
+C:\Users\mfazer\Downloads\Nike (final)\Nike\obj\Debug\Nike.exe
+C:\Users\mfazer\Downloads\Nike (final)\Nike\obj\Debug\Nike.pdb
+C:\Users\mfazer\Downloads\Nike (final)\Nike\obj\Debug\Nike.Views4.resources
+C:\Users\sara\source\repos\NikeFinal\obj\Debug\Nike.csprojAssemblyReference.cache
+C:\Users\sara\source\repos\NikeFinal\obj\Debug\Nike.View.resources
+C:\Users\sara\source\repos\NikeFinal\obj\Debug\Nike.View2.resources
+C:\Users\sara\source\repos\NikeFinal\obj\Debug\Nike.View3.resources
+C:\Users\sara\source\repos\NikeFinal\obj\Debug\Nike.Properties.Resources.resources
+C:\Users\sara\source\repos\NikeFinal\obj\Debug\Nike.Views4.resources
+C:\Users\sara\source\repos\NikeFinal\obj\Debug\Nike.csproj.GenerateResource.cache
+C:\Users\sara\source\repos\NikeFinal\obj\Debug\Nike.exe
+C:\Users\sara\source\repos\NikeFinal\obj\Debug\Nike.pdb
